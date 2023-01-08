@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "中文"
-permalink: /about
+permalink: /chinese
 ---
 
 just a human on this planet
