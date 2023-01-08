@@ -1,7 +1,4 @@
-Just your average everyday nerd, developer, motorcycle enthusiast, dog dad.
 
-The business side of this blog is mostly about SQL Server, PowerShell, programming tips and tools.
+I'm Yayun (亚云), a writer and machine learning engineer. I grew up in a small town in China with parents and two siblings (which is rare due to the one-child policy back then).
 
-I also like to post about my hobbies...motorcycles, rubiks cubes, dogs, nerdy home projects, archery and whatever else I seem to be obsessing over that month.
-
-Hope you enjoy what you're reading here!
+I'm managing a non-profit organization [Career Up Club] (https://www.careerupclub.org/)
