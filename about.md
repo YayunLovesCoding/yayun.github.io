@@ -6,3 +6,5 @@ permalink: /about
 
 just a human on this planet
 test hello Yannan Love you!!!
+
+Yayun you're smart!!
